@@ -46,3 +46,8 @@ C tili dunyosiga sayr qilamiz va data_type mamlakatini o'zimiz uchun o'rganamiz 
 - Masala: Foydalanuvchidan qancha kun borligini so'rang va faqat musbat kunlarni qabul qiling. Agar foydalanuvchi manfiy son kiritmoqchi bo'lsa, dastur xatolik haqida xabar bersin.
 - Misol: Agar foydalanuvchi -5 kiritmoqchi bo'lsa, dastur "Faqat musbat kunlarni kiriting!" deb chiqarishi kerak.
 - Ma'lumot turi: unsigned int ma'lumot turi, chunki bu holda faqat musbat sonlar saqlanishi kerak.
+
+
+**Kodlarini src papkasiga joylashtirib, push qiling.**
+**Pull request yarating va peerlar tomonidan ko'rib chiqilishini kuting.**
+**Pull requestni tasdiqlangandan so'ng, testlar avtomatik ravishda ishga tushadi va natijalarni tekshirib ko'rishlari mumkin.**
